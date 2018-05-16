@@ -31,7 +31,7 @@ public class PdfActivity extends BaseActivity {
     protected WebView webView;
     @BindView(R.id.id_current_page_num)
     TextView pageNumTv;
-    private final String path = "/storage/emulated/0/aries/homework/652152c893d14e838e414bf6e3f908ab.pdf";
+    private final String path = "/storage/emulated/0/aries/homework/652152c893d14e838e414bf6e3f908ab.pdf";//需要配置自己的pdf path
     private Unbinder binder;
 
     @Override
