@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PdfWebView</string>
+    <string name="page_num">%d/%d</string>
+    <string name="title">Title</string>
+</resources>
